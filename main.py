@@ -8,7 +8,7 @@ import os
 ctk.set_appearance_mode("dark")
 ctk.set_default_color_theme("blue")
 
-VICTIM_IP = "192.168.40.136"
+VICTIM_IP = "IP_address"
 PORT = 5000
 
 client = None
