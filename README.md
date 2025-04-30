@@ -73,7 +73,7 @@ PORT = 5000
 
 python remote_controller.py
 
-![Recording2025-04-30173030-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5fed46ad-a733-44a4-9df0-db3ca6973b53)
+![Recording2025-04-30173030-ezgif com-resize](https://github.com/user-attachments/assets/f97d91a9-2c2f-44ef-bebe-2c0d379252a9)
 
 
 📢 Important Notes
