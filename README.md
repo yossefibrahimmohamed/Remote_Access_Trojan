@@ -2,19 +2,19 @@
 
  Remote Controller 🖥️
 
-A Remote Access Tool (RAT) built using Python and CustomTkinter for the GUI, allowing you to:
+A Remote Access Tool (RAT) built using Python and CustomTkinter for the GUI, allowing you to access a Remote Victim in the same network:
 
     Connect to a victim machine.
 
     List running applications.
 
-    Send live typing keystrokes.
+    Could you send live typing keystrokes?
 
     Close specific programs.
 
     Take screenshots remotely.
 
-    Shutdown the victim's machine.
+    Shut down the victim's machine.
 
     Disconnect safely.
 
@@ -34,14 +34,14 @@ This application is built using:
 
 ⚙️ Features
 Feature	Description
-Connect to Victim	Establish a TCP connection to the victim's IP address.
+Connect to Victim: Establish a TCP connection to the victim's IP address.
 List Running Apps	Displays all running applications in a scrollable window.
-Live Typing	Type live remotely into victim's computer.
-Open Notepad	Opens Notepad on the victim's device.
-Close Specific App	Close any selected running application.
-Take Screenshot	Capture victim's screen and save it locally.
+Live Typing	: Type live remotely into the victim's computer.
+Open Notepad	. Opens Notepad on the victim's device.
+Close Specific App	: Close any selected running application.
+Take a Screenshot	Capture the victim's screen and save it locally.
 Shutdown	Shutdown victim's computer.
-Disconnect	Cleanly terminate the connection to the victim.
+Disconnect	. Cleanly terminate the connection to the victim.
 🛠️ How It Works
 
     The Attacker GUI connects to the Victim through a socket on the specified IP and PORT.
